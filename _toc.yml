@@ -3,3 +3,7 @@
 
 format: jb-book
 root: README
+parts:
+  - caption: Introduction
+    chapters:
+      - file: agenda

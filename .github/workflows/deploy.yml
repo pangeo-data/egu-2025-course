@@ -30,7 +30,6 @@ jobs:
         uses: mamba-org/setup-micromamba@v2
         with:
           environment-file: environment.yml
-          environment-name: base
           condarc: |
             channels:
               - conda-forge

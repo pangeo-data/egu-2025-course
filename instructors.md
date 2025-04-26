@@ -14,9 +14,9 @@ This short course is delivered by a group of contributors from the Pangeo and Ea
 
 ### **Tina Odaka**
 - **Affiliation:** [IFREMER](https://en.ifremer.fr)
-- **About:** [Brief introduction and areas of expertise]
+- **About:** Tina Odaka is a research engineer at Ifremer (LOPS), specializing in cloud-native workflows for marine and Earth observation data. She integrates tools like Pangeo, Zarr, STAC, and Dask into reproducible research and contributes to projects like Pangeo@EOSC and the EOPF Sample Service, supporting scalable, open geoscience.
 - **Github**: [tinaok](https://github.com/tinaok)
-- **Project affiliation:** IFREMER, France.
+- **Project affiliation:** This training is provided as part of the **[FAIR2Adapt](https://fair2adapt-eosc.eu)** project, funded by the European Union’s Horizon Europe framework programme under grant agreement No. 101188256. DOI: [10.3030/101188256](https://cordis.europa.eu/project/id/101188256).
 
 ---
 
@@ -37,8 +37,8 @@ This short course is delivered by a group of contributors from the Pangeo and Ea
 ---
 
 ### **Justus Magin**
-- **Affiliation:** [Add affiliation]
-- **About:** [Brief introduction and areas of expertise]
+- **Affiliation:** CNRS/IFREMER, France
+- **About:** Justus Magin is a core developer of Xarray, specializing in open-source tools for scientific data analysis. He focuses on scalable, cloud-native solutions for working with multidimensional datasets, contributing to projects that advance reproducible research and open science in the geosciences and beyond.
 - **Github**: [keewis](https://github.com/keewis)
 - **Project affiliation:** CNRS, France
 

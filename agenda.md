@@ -11,15 +11,13 @@
 
 - **Welcome & Icebreaker** (0:00 – 0:05)
     * Quick intro to instructors and the Pangeo community
-    * aise of hands or quick audience poll (discipline, Python experience, prior use of cloud tools)
 - **What is Pangeo & Why It Matters** (0:05 – 0:15) 
     * Motivation: challenges in analyzing large Earth & environmental datasets
-    * Pangeo ecosystem overview (Xarray, Dask, JupyterHub, cloud-native access)
-    * Demo: logging into Pangeo@EOSC (projector walkthrough)
 - **Live Hands-On Demo** (0:15 – 0:35)
-    * Participants follow along with their laptops
-    * Part 1 – Xarray Essentials
-    * Part 2 – Scaling with Dask
+    * Pangeo ecosystem overview (Xarray, Dask, JupyterHub, cloud-native access)
+    * Participants can follow along with their laptops
+    * Xarray Essentials
+    * Scaling with Dask
 - **Working with Cloud-Based Earth Observation Data** (0:35 – 0:45)
     * Show access to open datasets (e.g., Copernicus Marine, Sentinel via Zarr/STAC)
     * Tips for efficient workflows with remote/cloud data

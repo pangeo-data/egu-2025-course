@@ -1,0 +1,30 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Welcome
+  description: Jupyter notebooks showcasing the usage of EOPF Sample Zarr Service
+  authors:
+    - name: Pangeo Community
+  github: https://github.com/pangeo-data/egu-2025-course
+  jupyter:
+    server:
+      url: http://pangeo-eosc.vm.fedcloud.eu
+  banner: static/ESA_footer_banner_transparent.png
+  thumbnail: static/pangeo-logo.png
+  open_access: true
+  license:
+    content: CC-BY-4.0
+    code: Apache-2.0
+  copyright: "2025" # Copyright year to be placed in the footer
+  # bibliography: []
+  subject: earth and related environmental sciences
+site:
+  template: book-theme
+  options:
+    logo: static/pangeo-logo.png
+    logo_text: Pangeo
+    revision: 2025-03-26
+  nav:
+    - title: Learn More
+      url: https://pangeo.io
+  domains: []

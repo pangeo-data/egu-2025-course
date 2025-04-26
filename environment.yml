@@ -26,3 +26,4 @@ dependencies:
   - hvplot
   - dask-gateway
   - jupyter-book
+  - jupyterlab-myst

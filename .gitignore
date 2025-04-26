@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Myst installation and build
+_build/
+node_modules/
+package-lock.json
+package.json

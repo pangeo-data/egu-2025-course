@@ -8,3 +8,10 @@ parts:
     chapters:
       - file: agenda
       - file: instructors
+  - caption: Hands-on
+    chapters:
+      - file: xarray_introduction
+      - file: dask_introduction
+  - caption: Cloud-Based Zarr data
+    chapters:
+      - file: deforestation_monitoring_zarr

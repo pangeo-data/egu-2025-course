@@ -21,7 +21,7 @@ dependencies:
   - ipykernel
   - s3fs
   - pip
-  - zarr
+  - zarr>=3.0.6
   - dask
   - hvplot
   - dask-gateway

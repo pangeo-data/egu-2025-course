@@ -16,7 +16,7 @@ This short course is delivered by a group of contributors from the Pangeo and Ea
 - **Affiliation:** [IFREMER](https://en.ifremer.fr)
 - **About:** [Brief introduction and areas of expertise]
 - **Github**: [tinaok](https://github.com/tinaok)
-- **Project affiliation:** [Optional]
+- **Project affiliation:** IFREMER, France.
 
 ---
 
@@ -24,7 +24,7 @@ This short course is delivered by a group of contributors from the Pangeo and Ea
 - **Affiliation:** [Add affiliation]
 - **About:** [Brief introduction and areas of expertise]
 - **Github**: [scottyhq](https://github.com/scottyhq)
-- **Project affiliation:** [Optional]
+- **Project affiliation:** 
 
 ---
 
@@ -32,7 +32,7 @@ This short course is delivered by a group of contributors from the Pangeo and Ea
 - **Affiliation:** [Development Seed](https://developmentseed.org)
 - **About:** [Brief introduction and areas of expertise]
 - **Github**: [maxrjones](https://github.com/maxrjones)
-- **Project affiliation:** [Optional]
+- **Project affiliation:** Development Seed (USA)
 
 ---
 
@@ -40,7 +40,7 @@ This short course is delivered by a group of contributors from the Pangeo and Ea
 - **Affiliation:** [Add affiliation]
 - **About:** [Brief introduction and areas of expertise]
 - **Github**: [keewis](https://github.com/keewis)
-- **Project affiliation:** [Optional]
+- **Project affiliation:** CNRS, France
 
 ---
 

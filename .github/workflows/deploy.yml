@@ -38,10 +38,11 @@ jobs:
         run: npm install -g mystmd
       # Install dependencies
       - name: Set up environment
-        uses: mamba-org/setup-micromamba@v1
+        uses: mamba-org/setup-micromamba@v2
         with:
           environment-file: environment.yml
           environment-name: egu25
+          cache-environment: true
           condarc: |
             channels:
               - conda-forge

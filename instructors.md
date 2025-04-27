@@ -21,10 +21,10 @@ This short course is delivered by a group of contributors from the Pangeo and Ea
 ---
 
 ### **Scott Henderson**
-- **Affiliation:** [Add affiliation]
-- **About:** [Brief introduction and areas of expertise]
+- **Affiliation:** University of Washington [eScience Institute](https://escience.washington.edu) & [Department of Earth and Space Sciences](https://ess.uw.edu)
+- **About:** Scott Henderson is senior research scientist in the University of Washington who works on numerous NASA-funded efforts to develop open Cloud computing solutions for data intensive research. He is on the Xarray core maintainer team and is lead organizer for ‘Hackweeks’ hosted by the UW eScience institute which are designed as participant-driven events to promote collaboration and open science.
 - **Github**: [scottyhq](https://github.com/scottyhq)
-- **Project affiliation:** 
+- **Project affiliation:** Support provided by NASA’s Open Source Tools, Frameworks, and Libraries Program (award 80NSSC22K0345).
 
 ---
 

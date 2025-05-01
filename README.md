@@ -20,4 +20,4 @@ We recommend learners with no prior knowledge of Python review resources such as
 
 ### Set up
 
-If you are participating in this short course, you are welcome to register to [Pangeo@EOSC](https://pangeo-data.github.io/pangeo-eosc/) following the instructions given at [getting started for users](https://pangeo-data.github.io/egi2024-demo/users-getting-started.html).
+If you are participating in this short course, you are welcome to register to [Pangeo@EOSC](https://pangeo-data.github.io/pangeo-eosc/) following the instructions given at [getting started for users](https://pangeo-data.github.io/egi2024-demo/users-getting-started.html). Request access at [https://aai.egi.eu/auth/realms/id/account/#/enroll?groupPath=/vo.pangeo.eu](https://aai.egi.eu/auth/realms/id/account/#/enroll?groupPath=/vo.pangeo.eu).

@@ -30,7 +30,7 @@ This short course is delivered by a group of contributors from the Pangeo and Ea
 
 ### **Max Jones**
 - **Affiliation:** [Development Seed](https://developmentseed.org)
-- **About:** [Brief introduction and areas of expertise]
+- **About:** Max Jones is a cloud engineer at Development Seed, building open-source solutions that enable change on a global scale. He is passionate about increasing data accessibility that drives decision-making, with a particular enthusiasm for all things geospatial. Max previously led open-source work at CarbonPlan, a non-profit building open data and tools for climate action. He also developed data processing and visualization software for the University of Hawaiʻi and Woods Hole Oceanographic Institution.
 - **Github**: [maxrjones](https://github.com/maxrjones)
 - **Project affiliation:** Development Seed (USA)
 

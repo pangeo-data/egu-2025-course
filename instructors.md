@@ -21,16 +21,16 @@ This short course is delivered by a group of contributors from the Pangeo and Ea
 ---
 
 ### **Scott Henderson**
-- **Affiliation:** [Add affiliation]
-- **About:** [Brief introduction and areas of expertise]
+- **Affiliation:** University of Washington [eScience Institute](https://escience.washington.edu) & [Department of Earth and Space Sciences](https://ess.uw.edu)
+- **About:** Scott Henderson is senior research scientist in the University of Washington who works on numerous NASA-funded efforts to develop open Cloud computing solutions for data intensive research. He is on the Xarray core maintainer team and is lead organizer for ‘Hackweeks’ hosted by the UW eScience institute which are designed as participant-driven events to promote collaboration and open science.
 - **Github**: [scottyhq](https://github.com/scottyhq)
-- **Project affiliation:** 
+- **Project affiliation:** Support provided by NASA’s Open Source Tools, Frameworks, and Libraries Program (award 80NSSC22K0345).
 
 ---
 
 ### **Max Jones**
 - **Affiliation:** [Development Seed](https://developmentseed.org)
-- **About:** [Brief introduction and areas of expertise]
+- **About:** Max Jones is a cloud engineer at Development Seed, building open-source solutions that enable change on a global scale. He is passionate about increasing data accessibility that drives decision-making, with a particular enthusiasm for all things geospatial. Max previously led open-source work at CarbonPlan, a non-profit building open data and tools for climate action. He also developed data processing and visualization software for the University of Hawaiʻi and Woods Hole Oceanographic Institution.
 - **Github**: [maxrjones](https://github.com/maxrjones)
 - **Project affiliation:** Development Seed (USA)
 

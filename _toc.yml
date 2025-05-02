@@ -15,3 +15,6 @@ parts:
   - caption: Cloud-Based Zarr data
     chapters:
       - file: deforestation_monitoring_zarr
+  - caption: What next?
+    chapters:
+      - file: what_next

@@ -19,6 +19,11 @@ dependencies:
   - pre-commit
   - black-jupyter
   - ipykernel
+  - pooch
+  - h5netcdf
+  - netCDF4
+  - kerchunk
+  - graphviz
   - s3fs
   - pip
   - zarr>=3.0.6
